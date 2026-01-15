@@ -1,0 +1,23 @@
+{
+  "scoreboard": {
+    "net_carbon_credit_score": -3335563.97,
+    "nitrogen_precision": 17.7,
+    "logistics_efficiency": 0.1,
+    "rain_lock_resilience": 0.3637
+  },
+  "details": {
+    "total_delivered_tons": 25980.0,
+    "total_demand_n_kg": 36695.0,
+    "total_delivered_n_kg": 649500.0,
+    "total_round_trip_km": 259752.56118991066
+  },
+  "gains": {
+    "synthetic_fertilizer_offset": 7913.96305879927,
+    "soil_carbon_sequestration": 5196000.0
+  },
+  "penalties": {
+    "transport_emissions": 116888.65253545869,
+    "nitrogen_leaching": 6477589.281270637,
+    "stp_overflow": 1945000.0
+  }
+}
