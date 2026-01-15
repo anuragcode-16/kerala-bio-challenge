@@ -1,0 +1,12 @@
+{
+  "net_carbon_credit_score": -3335563.9707472958,
+  "gains": {
+    "synthetic_fertilizer_offset": 7913.96305879927,
+    "soil_carbon_sequestration": 5196000.0
+  },
+  "penalties": {
+    "transport_emissions": 116888.65253545869,
+    "nitrogen_leaching": 6477589.281270637,
+    "stp_overflow": 1945000.0
+  }
+}
